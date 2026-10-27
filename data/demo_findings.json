@@ -1,0 +1,12 @@
+[
+  {
+    "check_id": "DEMO-001",
+    "title": "Demo security check",
+    "service": "AWS",
+    "severity": "Info",
+    "status": "PASS",
+    "description": "SinhaSecure demo mode is active.",
+    "recommendation": "Connect an AWS account to perform a live audit.",
+    "resource": "Demo"
+  }
+]
